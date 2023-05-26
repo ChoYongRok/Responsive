@@ -605,8 +605,8 @@ footer img{
     margin-top: 70%;
   }
   #brutal img{
-    width: 50%;
-    height: 30%;
+    width: 70vw;
+    height: 30vh;
   }
   #brutal img:nth-child(1){
     top:0%;
@@ -625,11 +625,11 @@ footer img{
   }
   #brutal .text{
     text-align: center;
-    width: 50%;
-    height: 30%;
+    width: 70vw;
+    height: 30vh;
     position: absolute;
     top:10%;
-    left: 43%;
+    left: 30%;
   }
 
   /* glass */
@@ -638,6 +638,7 @@ footer img{
     left: 50%;
     transform: translateX(-50%);
     width: 80%;
+    height: 25vh;
     padding: 5%;
   }
   #glass .side{
